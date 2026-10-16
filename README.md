@@ -27,6 +27,7 @@ Classifying mushrooms as edible or poisonous based on their features.
 
 ## A Note on Learning
 
+I took help of AI in experimenting and working efficiently.  
 I'm still learning, and these assignments helped me get more practice with datasets, models, and evaluation.
 
 My goal is to keep improving until I can approach and solve these problems more independently.
